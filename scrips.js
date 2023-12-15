@@ -176,6 +176,7 @@ let categories = [
     },
 ]
  
+
 let max = 0
 let min = 0
  
