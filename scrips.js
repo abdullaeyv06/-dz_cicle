@@ -179,6 +179,7 @@ let categories = [
 
 let max = 0
 let min = 0
+
  
 for (product of products) {
     let name = product.type
